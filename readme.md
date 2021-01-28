@@ -1,3 +1,1 @@
-testlab1 is my first github project
-
-I will start developing code soon.
+Testlab1 is challenging me, because I have never interacted with Git Bash before. 
